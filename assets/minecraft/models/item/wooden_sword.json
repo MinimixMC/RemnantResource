@@ -9,6 +9,16 @@
         "custom_model_data": 1
       },
       "model":"remnant:item/wooden_knife"
+    }, {
+      "predicate" : {
+        "custom_model_data": 2
+      },
+      "model":"remnant:item/karambit"
+    }, {
+      "predicate" : {
+        "custom_model_data": 3
+      },
+      "model":"remnant:item/huntsman"
     }
   ]
 }
