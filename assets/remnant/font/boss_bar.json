@@ -1,0 +1,17 @@
+{
+    "providers" : [
+        {
+            "type" : "bitmap",
+            "file" : "remnant:font/scoreboard.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE001"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/scoreboard_spectator.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE002"]
+        }
+    ]
+}

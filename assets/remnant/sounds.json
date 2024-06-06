@@ -1,0 +1,197 @@
+{
+	"ten_second_warning" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:ten_second_warning",
+			"volume" : 0.25,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"console_infected" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:console_infected",
+			"volume" : 0.5,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.console_infected" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.console_infected",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.console_restored" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.console_restored",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.teamwin_attack" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.teamwin_attack",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.teamwin_defense" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.teamwin_defense",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.teamwin_remnant" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.teamwin_remnant",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.teamwin_corrupted" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.teamwin_corrupted",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.switching_sides" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.switching_sides",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.30_second_warning" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.30_second_warning",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"announcer.sudden_death" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.sudden_death",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
+	"emitter.phase_one_tick" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:emitter/emitter.phase_one_tick",
+			"volume" : 1,
+			"pitch" : 4.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 64,
+			"preload" : false,
+			"channels" : 1
+		}]
+	},
+	"emitter.phase_two_tick" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:emitter/emitter.phase_two_tick",
+			"volume" : 1,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 64,
+			"preload" : false,
+			"channels" : 1 
+		}]
+	},
+	"emitter.phase_three_tick" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:emitter/emitter.phase_three_tick",
+			"volume" : 1,
+			"pitch" : 4.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 64,
+			"preload" : false,
+			"channels" : 1 
+		}]
+	},
+	"emitter.phase_four_tick" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:emitter/emitter.phase_four_tick",
+			"volume" : 1,
+			"pitch" : 4.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 64,
+			"preload" : false,
+			"channels" : 1 
+		}]
+	}
+}

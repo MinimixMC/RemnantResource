@@ -1,0 +1,18 @@
+{
+    "providers" : [
+        {
+            "type" : "bitmap",
+            "file" : "remnant:font/defenders_icon.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE001"]
+        },{
+            "type" : "bitmap",
+            "file" : "remnant:font/attackers_icon.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE002"]
+        }
+
+    ]
+}
