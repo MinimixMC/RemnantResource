@@ -1,0 +1,34 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/diamond"
+    },
+    "overrides" : [
+      {
+        "predicate" : {
+          "custom_model_data": 1
+        },
+        "model":"remnant:item/class/swordsman"
+      }, {
+        "predicate" : {
+          "custom_model_data": 2
+        },
+        "model":"remnant:item/class/marksman"
+      }, {
+        "predicate" : {
+          "custom_model_data": 3
+        },
+        "model":"remnant:item/class/lumberjack"
+      }, {
+        "predicate" : {
+          "custom_model_data": 4
+        },
+        "model":"remnant:item/class/smokes"
+      }, {
+        "predicate" : {
+          "custom_model_data": 5
+        },
+        "model":"remnant:item/class/battlemage"
+      }
+    ]
+  }

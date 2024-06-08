@@ -19,6 +19,11 @@
         "custom_model_data": 3
       },
       "model":"remnant:item/huntsman"
+    }, {
+      "predicate" : {
+        "custom_model_data": 4
+      },
+      "model":"remnant:item/butterfly"
     }
   ]
 }
