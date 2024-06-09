@@ -193,5 +193,31 @@
 			"preload" : false,
 			"channels" : 1 
 		}]
+	},
+	"game_end.victory_song" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:emitter/victory_song",
+			"volume" : 1,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 64,
+			"preload" : false,
+			"channels" : 1 
+		}]
+	},
+	"game_end.defeat_song" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:emitter/defeat_song",
+			"volume" : 1,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 64,
+			"preload" : false,
+			"channels" : 1 
+		}]
 	}
 }

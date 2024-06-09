@@ -6,12 +6,42 @@
             "ascent" : 7,
             "height" : 13,
             "chars" : ["\uE001"]
-        },{
+        }, {
             "type" : "bitmap",
             "file" : "remnant:font/attackers_icon.png",
             "ascent" : 7,
             "height" : 13,
             "chars" : ["\uE002"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/player_alive_defender.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE003"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/player_alive_attacker.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE004"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/player_dead.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE005"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/player_indicator_empty.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE006"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/player_remnant_form.png",
+            "ascent" : 7,
+            "height" : 13,
+            "chars" : ["\uE007"]
         }
 
     ]
