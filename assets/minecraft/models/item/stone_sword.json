@@ -9,6 +9,11 @@
           "custom_model_data": 1
         },
         "model":"remnant:item/stone_knife"
+      }, {
+        "predicate" : {
+          "custom_model_data": 2
+        },
+        "model":"remnant:item/sabers/rainbow_saber"
       }
     ]
 }
