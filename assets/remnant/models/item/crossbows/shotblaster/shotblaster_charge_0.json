@@ -1,5 +1,5 @@
 {
-    "parent": "item/crossbow",
+    "parent": "remnant:item/crossbows/shotblaster/shotblaster",
     "textures": {
         "layer0": "remnant:item/crossbows/shotblaster/shotblaster_charge_0"
     }

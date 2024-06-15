@@ -37,6 +37,13 @@
         { "predicate": { "custom_model_data": 1, "pulling": 1, "pull": 0.58 },  "model": "remnant:item/crossbows/shotblaster/shotblaster_charge_1" },
         { "predicate": { "custom_model_data": 1, "pulling": 1, "pull": 1.00 },  "model": "remnant:item/crossbows/shotblaster/shotblaster_charge_2" },
         { "predicate": { "custom_model_data": 1, "charged": 1 },                "model": "remnant:item/crossbows/shotblaster/shotblaster_arrow" },
-        { "predicate": { "custom_model_data": 1, "charged": 1, "firework": 1 }, "model": "remnant:item/crossbows/shotblaster/shotblaster_firework" }
+        { "predicate": { "custom_model_data": 1, "charged": 1, "firework": 1 }, "model": "remnant:item/crossbows/shotblaster/shotblaster_firework" },
+
+        { "predicate": { "custom_model_data": 2 },                              "model": "remnant:item/crossbows/sniper/sniper"},
+        { "predicate": { "custom_model_data": 2, "pulling": 1 },                "model": "remnant:item/crossbows/sniper/sniper_charge_0" },
+        { "predicate": { "custom_model_data": 2, "pulling": 1, "pull": 0.58 },  "model": "remnant:item/crossbows/sniper/sniper_charge_1" },
+        { "predicate": { "custom_model_data": 2, "pulling": 1, "pull": 1.00 },  "model": "remnant:item/crossbows/sniper/sniper_charge_2" },
+        { "predicate": { "custom_model_data": 2, "charged": 1 },                "model": "remnant:item/crossbows/sniper/sniper_arrow" },
+        { "predicate": { "custom_model_data": 2, "charged": 1, "firework": 1 }, "model": "remnant:item/crossbows/sniper/sniper_firework" }
     ]
 }

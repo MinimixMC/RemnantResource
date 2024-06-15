@@ -1,7 +1,7 @@
 {
     "parent": "remnant:item/crossbows/shotblaster/shotblaster",
     "textures": {
-        "layer0": "remnant:item/crossbows/shotblaster/shotblaster"
+        "layer0": "remnant:item/crossbows/sniper/sniper_charge_2"
     },
     "display": {
         "thirdperson_righthand": {
