@@ -1,7 +1,8 @@
 name: Create Archive
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+    - 'release'
 jobs:
   build:
     runs-on: ubuntu-latest
