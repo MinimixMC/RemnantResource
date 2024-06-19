@@ -3,7 +3,7 @@
         {
             "type" : "bitmap",
             "file" : "remnant:font/inventories/class_select.png",
-            "ascent" : 14,
+            "ascent" : 13,
             "height" : 256,
             "chars" : ["\uE001"]
         }, {
