@@ -39,6 +39,16 @@
           "custom_model_data": 7
         },
         "model":"remnant:item/class/sniper"
+      }, {
+        "predicate" : {
+          "custom_model_data": 8
+        },
+        "model":"remnant:item/class/tank"
+      }, {
+        "predicate" : {
+          "custom_model_data": 9
+        },
+        "model":"remnant:item/class/vampire"
       }
     ]
   }
