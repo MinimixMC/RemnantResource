@@ -42,6 +42,30 @@
             "ascent" : 7,
             "height" : 13,
             "chars" : ["\uE007"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/turfwar/turf_ally.png",
+            "ascent" : 7,
+            "height" : 20,
+            "chars" : ["\uE008"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/turfwar/turf_enemy.png",
+            "ascent" : 7,
+            "height" : 20,
+            "chars" : ["\uE009"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/turfwar/turf_contested.png",
+            "ascent" : 7,
+            "height" : 20,
+            "chars" : ["\uE00A"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/turfwar/turf_empty.png",
+            "ascent" : 7,
+            "height" : 20,
+            "chars" : ["\uE00B"]
         }
 
     ]
