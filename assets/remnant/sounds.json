@@ -142,6 +142,19 @@
 			"channels" : 2 
 		}]
 	},
+	"announcer.ace" : {
+		"replace" : false,
+		"sounds" : [{
+			"name" : "remnant:announcer/announcer.ace",
+			"volume" : 2,
+			"pitch" : 1.0,
+			"weight" : 1,
+			"stream" : false,
+			"attenuation_distance" : 16,
+			"preload" : false,
+			"channels" : 2 
+		}]
+	},
 	"emitter.phase_one_tick" : {
 		"replace" : false,
 		"sounds" : [{
