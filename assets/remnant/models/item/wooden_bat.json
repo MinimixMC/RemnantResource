@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "remnant:item/BONK"
+      "layer0": "remnant:item/bonk"
     }
   }
