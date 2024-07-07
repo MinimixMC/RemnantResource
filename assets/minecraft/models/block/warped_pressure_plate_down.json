@@ -9,6 +9,7 @@
 		"8": "remnant:block/emitter/toptexture",
 		"particle": "open"
 	},
+	"render" : "translucent",
 	"elements": [
 		{
 			"from": [5.5, 13, 5.5],
