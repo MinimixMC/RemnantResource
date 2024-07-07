@@ -24,6 +24,11 @@
         "custom_model_data": 4
       },
       "model":"remnant:item/butterfly"
+    }, {
+      "predicate" : {
+        "custom_model_data": 5
+      },
+      "model":"remnant:item/wooden_bat"
     }
   ]
 }
