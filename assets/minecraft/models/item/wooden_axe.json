@@ -6,7 +6,22 @@
   "overrides" : [
     {
       "predicate" : {
-          "custom_model_data": 1
+        "custom_model_data": 1
+      },
+      "model":"remnant:item/axes/blue_axe"
+    }, {
+      "predicate" : {
+        "custom_model_data": 2
+      },
+      "model":"remnant:item/axes/red_axe"
+    },  {
+      "predicate" : {
+        "custom_model_data": 3
+      },
+      "model":"remnant:item/axes/purple_axe"
+    }, {
+      "predicate" : {
+          "custom_model_data": 4
       },
       "model":"remnant:item/lumberjack_axe"
     } 
