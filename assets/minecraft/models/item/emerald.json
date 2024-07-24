@@ -1,0 +1,59 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/diamond"
+    },
+    "overrides" : [
+      {
+        "predicate" : {
+          "custom_model_data": 1
+        },
+        "model":"remnant:item/maps/company"
+      }, {
+        "predicate" : {
+          "custom_model_data": 2
+        },
+        "model":"remnant:item/maps/company"
+      }, {
+        "predicate" : {
+          "custom_model_data": 3
+        },
+        "model":"remnant:item/maps/block"
+      }, {
+        "predicate" : {
+          "custom_model_data": 4
+        },
+        "model":"remnant:item/maps/dojo"
+      }, {
+        "predicate" : {
+          "custom_model_data": 5
+        },
+        "model":"remnant:item/maps/arcade"
+      }, {
+        "predicate" : {
+          "custom_model_data": 6
+        },
+        "model":"remnant:item/maps/antithesis"
+      }, {
+        "predicate" : {
+          "custom_model_data": 7
+        },
+        "model":"remnant:item/maps/darkblock"
+      }, {
+        "predicate" : {
+          "custom_model_data": 8
+        },
+        "model":"remnant:item/maps/pizzeria"
+      }, {
+        "predicate" : {
+          "custom_model_data": 9
+        },
+        "model":"remnant:item/maps/hightower"
+      }, {
+        "predicate" : {
+          "custom_model_data": 10
+        },
+        "model":"remnant:item/maps/sewers"
+      }
+    ]
+  }
