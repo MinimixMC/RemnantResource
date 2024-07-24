@@ -13,7 +13,7 @@
         "predicate" : {
           "custom_model_data": 2
         },
-        "model":"remnant:item/maps/company"
+        "model":"remnant:item/maps/mansion"
       }, {
         "predicate" : {
           "custom_model_data": 3
