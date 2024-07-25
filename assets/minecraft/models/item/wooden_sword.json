@@ -8,25 +8,40 @@
       "predicate" : {
         "custom_model_data": 1
       },
-      "model":"remnant:item/wooden_knife"
+      "model":"remnant:item/knives/blue_knife"
     }, {
       "predicate" : {
         "custom_model_data": 2
       },
-      "model":"remnant:item/karambit"
-    }, {
+      "model":"remnant:item/sabers/red_knife"
+    },  {
       "predicate" : {
         "custom_model_data": 3
       },
-      "model":"remnant:item/huntsman"
+      "model":"remnant:item/sabers/purple_knife"
     }, {
       "predicate" : {
         "custom_model_data": 4
       },
-      "model":"remnant:item/butterfly"
+      "model":"remnant:item/wooden_knife"
     }, {
       "predicate" : {
         "custom_model_data": 5
+      },
+      "model":"remnant:item/karambit"
+    }, {
+      "predicate" : {
+        "custom_model_data": 6
+      },
+      "model":"remnant:item/huntsman"
+    }, {
+      "predicate" : {
+        "custom_model_data": 7
+      },
+      "model":"remnant:item/butterfly"
+    }, {
+      "predicate" : {
+        "custom_model_data": 8
       },
       "model":"remnant:item/wooden_bat"
     }
