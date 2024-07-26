@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/cross",
 	"textures": {
-		"cross": "block/smoke"
+		"cross": "remnant:block/smoke"
 	},
 	"elements": [
 		{
