@@ -1,6 +1,0 @@
-{
-    "parent": "remnant:item/bows/blaster/blaster",
-    "textures": {
-        "layer0": "remnant:item/bows/blaster/blaster_charge_0"
-    }
-}
