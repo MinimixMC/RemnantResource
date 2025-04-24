@@ -32,8 +32,6 @@
 
         { "predicate" : { "custom_model_data": 1 }, "model":"remnant:item/bows/blaster/blaster" },
         { "predicate" : { "custom_model_data": 1, "pulling": 1 }, "model": "remnant:item/bows/blaster/blaster" },
-        { "predicate" : { "custom_model_data": 1, "pulling": 1, "pull": 0.65 }, "model": "remnant:item/bows/blaster/blaster" },
-        { "predicate" : { "custom_model_data": 1, "pulling": 1, "pull": 0.9 }, "model": "remnant:item/bows/blaster/blaster" },
 
         { "predicate" : { "custom_model_data": 2 }, "model":"remnant:item/bows/toy/blaster"},
         { "predicate" : { "custom_model_data": 2, "pulling": 1 }, "model": "remnant:item/bows/toy/blaster_charge_0" },
