@@ -146,25 +146,5 @@
 			"rotation": [0, -90, 0],
 			"translation": [-2, 3, 0]
 		}
-	},
-	"groups": [
-		{
-			"name": "Gunbarrel",
-			"origin": [8, 0, 8],
-			"color": 0,
-			"children": [0, 1, 2, 3, 4]
-		},
-		{
-			"name": "Gun Cock",
-			"origin": [8, 0, 8],
-			"color": 0,
-			"children": [5, 6]
-		},
-		{
-			"name": "Handle",
-			"origin": [8, 0, 8],
-			"color": 0,
-			"children": [7, 8]
-		}
-	]
+	}
 }
