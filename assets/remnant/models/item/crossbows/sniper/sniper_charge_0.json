@@ -1,28 +1,6 @@
 {
-    "parent": "item/crossbow",
+    "parent": "remnant:item/crossbows/sniper/sniper",
     "textures": {
-        "layer0": "remnant:item/crossbows/sniper/sniper_charge_0"
-    },
-    "display": {
-        "thirdperson_righthand": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 2, 2, 2 ]
-        },
-        "thirdperson_lefthand": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 2, 2, 2 ]
-        },
-        "firstperson_righthand": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 2, 0],
-            "scale": [ 2, 2, 1 ]
-        },
-        "firstperson_lefthand": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 2, 0],
-            "scale": [ 2, 2, 1 ]
-        }
+        "layer0": "remnant:item/crossbows/sniper/sniper_3d"
     }
 }
