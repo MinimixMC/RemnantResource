@@ -37,7 +37,7 @@
       }
     , {
         "predicate" : {
-          "custom_model_data" : 6
+          "custom_model_data" : 7
         }, 
         "model" : "remnant:item/sabers/brawlerfist_red"
       }
