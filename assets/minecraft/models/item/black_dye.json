@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"overrides" : [
+		{ "predicate": { "custom_model_data": 1 }, "model": "remnant:item/remnantform" } ,
+        { "predicate": { "custom_model_data": 2 }, "model": "remnant:item/remnantformempty" }
+	]
+}
