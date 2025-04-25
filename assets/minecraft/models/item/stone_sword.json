@@ -29,6 +29,17 @@
           "custom_model_data": 5
         },
         "model":"remnant:item/sabers/rainbow_saber"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 6
+        }, 
+        "model" : "remnant:item/sabers/brawlerfist_blue"
+      }
+    , {
+        "predicate" : {
+          "custom_model_data" : 6
+        }, 
+        "model" : "remnant:item/sabers/brawlerfist_red"
       }
     ]
 }
