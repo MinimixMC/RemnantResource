@@ -44,6 +44,20 @@
         { "predicate": { "custom_model_data": 2, "pulling": 1, "pull": 0.58 },  "model": "remnant:item/crossbows/sniper/sniper_charge_1" },
         { "predicate": { "custom_model_data": 2, "pulling": 1, "pull": 1.00 },  "model": "remnant:item/crossbows/sniper/sniper_charge_2" },
         { "predicate": { "custom_model_data": 2, "charged": 1 },                "model": "remnant:item/crossbows/sniper/sniper_arrow" },
-        { "predicate": { "custom_model_data": 2, "charged": 1, "firework": 1 }, "model": "remnant:item/crossbows/sniper/sniper_firework" }
+        { "predicate": { "custom_model_data": 2, "charged": 1, "firework": 1 }, "model": "remnant:item/crossbows/sniper/sniper_firework" },
+
+        { "predicate": { "custom_model_data": 3 },                              "model": "remnant:item/crossbows/flaregun/flaregun_blue"},
+        { "predicate": { "custom_model_data": 3, "pulling": 1 },                "model": "remnant:item/crossbows/flaregun/flaregun_blue" },
+        { "predicate": { "custom_model_data": 3, "pulling": 1, "pull": 0.58 },  "model": "remnant:item/crossbows/flaregun/flaregun_blue" },
+        { "predicate": { "custom_model_data": 3, "pulling": 1, "pull": 1.00 },  "model": "remnant:item/crossbows/flaregun/flaregun_blue" },
+        { "predicate": { "custom_model_data": 3, "charged": 1 },                "model": "remnant:item/crossbows/flaregun/flaregun_blue" },
+        { "predicate": { "custom_model_data": 3, "charged": 1, "firework": 1 }, "model": "remnant:item/crossbows/flaregun/flaregun_blue" },
+
+        { "predicate": { "custom_model_data": 4 },                              "model": "remnant:item/crossbows/flaregun/flaregun_red"},
+        { "predicate": { "custom_model_data": 4, "pulling": 1 },                "model": "remnant:item/crossbows/flaregun/flaregun_red" },
+        { "predicate": { "custom_model_data": 4, "pulling": 1, "pull": 0.58 },  "model": "remnant:item/crossbows/flaregun/flaregun_red" },
+        { "predicate": { "custom_model_data": 4, "pulling": 1, "pull": 1.00 },  "model": "remnant:item/crossbows/flaregun/flaregun_red" },
+        { "predicate": { "custom_model_data": 4, "charged": 1 },                "model": "remnant:item/crossbows/flaregun/flaregun_red" },
+        { "predicate": { "custom_model_data": 4, "charged": 1, "firework": 1 }, "model": "remnant:item/crossbows/flaregun/flaregun_red" }
     ]
 }
