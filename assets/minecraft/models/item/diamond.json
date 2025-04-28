@@ -23,30 +23,25 @@
         "predicate" : {
           "custom_model_data": 4
         },
-        "model":"remnant:item/class/smokes"
+        "model":"remnant:item/class/battlemage"
       }, {
         "predicate" : {
           "custom_model_data": 5
         },
-        "model":"remnant:item/class/battlemage"
+        "model":"remnant:item/class/walls"
       }, {
         "predicate" : {
           "custom_model_data": 6
         },
-        "model":"remnant:item/class/walls"
+        "model":"remnant:item/class/sniper"
       }, {
         "predicate" : {
           "custom_model_data": 7
         },
-        "model":"remnant:item/class/sniper"
-      }, {
-        "predicate" : {
-          "custom_model_data": 8
-        },
         "model":"remnant:item/class/tank"
       }, {
         "predicate" : {
-          "custom_model_data": 9
+          "custom_model_data": 8
         },
         "model":"remnant:item/class/vampire"
       }
