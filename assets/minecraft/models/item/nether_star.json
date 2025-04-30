@@ -1,14 +1,14 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "minecraft:item/snowball"
+      "layer0": "minecraft:item/nether_star"
     },
     "overrides" : [
         {
         "predicate" : {
             "custom_model_data": 1
         },
-        "model":"remnant:item/ability/smoke_ability"
+        "model":"remnant:block/emitter_closed"
         }
     ]
 }

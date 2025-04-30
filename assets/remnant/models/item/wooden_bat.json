@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/handheld",
+  "parent": "minecraft:it/handheld",
   "textures": {
     "layer0": "remnant:item/wooden_bat"
   }
