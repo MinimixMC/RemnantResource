@@ -296,5 +296,10 @@
 				"down": {"uv": [6, 5, 4, 7], "texture": "#6"}
 			}
 		}
-	]
+	],
+    "display": {
+		"ground" : {	
+			"translation" : [0, 8, 0]
+		}
+	}
 }
