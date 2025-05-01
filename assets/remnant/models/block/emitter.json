@@ -299,7 +299,7 @@
 	],
     "display": {
 		"ground" : {	
-			"translation" : [0, 8, 0]
+			"translation" : [0, 16, 0]
 		}
 	}
 }
