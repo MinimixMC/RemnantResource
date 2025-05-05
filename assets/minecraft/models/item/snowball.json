@@ -5,10 +5,15 @@
     },
     "overrides" : [
         {
-        "predicate" : {
-            "custom_model_data": 1
-        },
-        "model":"remnant:item/ability/smoke_ability"
+            "predicate" : {
+                "custom_model_data": 1
+            },
+            "model":"remnant:item/ability/smoke_ability"
+        }, {
+            "predicate" : {
+                "custom_model_data": 1
+            },
+            "model":"remnant:item/ability/molotov_ability"
         }
     ]
 }
