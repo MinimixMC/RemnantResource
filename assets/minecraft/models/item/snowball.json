@@ -11,7 +11,7 @@
             "model":"remnant:item/ability/smoke_ability"
         }, {
             "predicate" : {
-                "custom_model_data": 1
+                "custom_model_data": 2
             },
             "model":"remnant:item/ability/molotov_ability"
         }
