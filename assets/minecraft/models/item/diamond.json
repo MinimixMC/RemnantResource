@@ -49,6 +49,21 @@
           "custom_model_data": 9
         },
         "model":"remnant:item/class/firestarter"
+      }, {
+        "predicate" : {
+          "custom_model_data": 9
+        },
+        "model":"remnant:item/class/batter"
+      }, {
+        "predicate" : {
+          "custom_model_data": 9
+        },
+        "model":"remnant:item/class/clown"
+      }, {
+        "predicate" : {
+          "custom_model_data": 9
+        },
+        "model":"remnant:item/class/milo"
       }
     ]
   }
