@@ -11,7 +11,9 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "remnant:block/trashcan" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "remnant:block/trashbag" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "remnant:block/dumpster" },
-		{ "predicate": { "custom_model_data": 9 }, "model": "remnant:block/hydrant" }
+		{ "predicate": { "custom_model_data": 9 }, "model": "remnant:block/hydrant" },
+
+		{ "predicate": { "custom_model_data": 10 }, "model": "remnant:block/server_rack" }
 
     ]
 }
