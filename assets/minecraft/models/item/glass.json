@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:block/glass",
+	"overrides" : [
+		{ "predicate": { "custom_model_data": 1 }, "model": "remnant:block/bench" },
+
+		{ "predicate": { "custom_model_data": 2 }, "model": "remnant:block/yellow_arcade" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "remnant:block/purple_arcade" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "remnant:block/blue_arcade" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "remnant:block/green_arcade" },
+
+		{ "predicate": { "custom_model_data": 6 }, "model": "remnant:block/trashcan" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "remnant:block/trashbag" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "remnant:block/dumpster" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "remnant:block/hydrant" }
+
+    ]
+}
