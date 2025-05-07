@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "remnant:item/ability/molotov", 
+		"0": "remnant:item/ability/molotov_ability", 
 		"particle": "remnant:item/ability/molotov"
 	},
 	"elements": [
