@@ -14,6 +14,11 @@
                 "custom_model_data": 2
             },
             "model":"remnant:item/ability/molotov_ability"
+        }, {
+            "predicate" : {
+                "custom_model_data": 3
+            },
+            "model":"remnant:item/ability/tire_ability"
         }
     ]
 }
