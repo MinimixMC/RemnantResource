@@ -19,6 +19,16 @@
                 "custom_model_data": 3
             },
             "model":"remnant:item/ability/tire_ability"
+        }, {
+            "predicate" : {
+                "custom_model_data": 4
+            },
+            "model":"remnant:item/ability/batterballblue"
+        }, {
+            "predicate" : {
+                "custom_model_data": 5
+            },
+            "model":"remnant:item/ability/batterballred"
         }
     ]
 }
