@@ -49,6 +49,16 @@
           "custom_model_data" : 9
         }, 
         "model" : "remnant:item/sabers/battlemage_red"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 10
+        }, 
+        "model" : "remnant:item/sabers/bat_blue"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 11
+        }, 
+        "model" : "remnant:item/sabers/bat_red"
       }
     ]
 }
