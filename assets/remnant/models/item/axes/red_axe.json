@@ -96,9 +96,20 @@
 		"firstperson_lefthand": {
 			"rotation": [9, -3, -7]
 		},
+		"ground": {
+			"translation": [0, 8.25, 0]
+		},
+		"gui": {
+			"rotation": [60, 35, -73],
+			"translation": [0, -1.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
 		"head": {
 			"rotation": [-77, 43, 116],
 			"translation": [14, 0, -3.25]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
 		}
 	}
 }
