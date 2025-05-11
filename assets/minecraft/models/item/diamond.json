@@ -3,82 +3,67 @@
   "textures": {
     "layer0": "minecraft:item/diamond"
   },
-  "select": {
-    "type": "minecraft:select",
-    "property": "minecraft:custom_model_data",
-    "cases": [
-      {
-        "when": 1,
-        "apply": {
-          "model": "remnant:item/class/swordsman"
-        }
+  "overrides" : [
+    {
+      "predicate" : {
+        "custom_model_data": 1
       },
-      {
-        "when": 2,
-        "apply": {
-          "model": "remnant:item/class/marksman"
-        }
+      "model":"remnant:item/class/swordsman"
+    }, {
+      "predicate" : {
+        "custom_model_data": 2
       },
-      {
-        "when": 3,
-        "apply": {
-          "model": "remnant:item/class/lumberjack"
-        }
+      "model":"remnant:item/class/marksman"
+    }, {
+      "predicate" : {
+        "custom_model_data": 3
       },
-      {
-        "when": 4,
-        "apply": {
-          "model": "remnant:item/class/battlemage"
-        }
+      "model":"remnant:item/class/lumberjack"
+    }, {
+      "predicate" : {
+        "custom_model_data": 4
       },
-      {
-        "when": 5,
-        "apply": {
-          "model": "remnant:item/class/walls"
-        }
+      "model":"remnant:item/class/battlemage"
+    }, {
+      "predicate" : {
+        "custom_model_data": 5
       },
-      {
-        "when": 6,
-        "apply": {
-          "model": "remnant:item/class/sniper"
-        }
+      "model":"remnant:item/class/walls"
+    }, {
+      "predicate" : {
+        "custom_model_data": 6
       },
-      {
-        "when": 7,
-        "apply": {
-          "model": "remnant:item/class/tank"
-        }
+      "model":"remnant:item/class/sniper"
+    }, {
+      "predicate" : {
+        "custom_model_data": 7
       },
-      {
-        "when": 8,
-        "apply": {
-          "model": "remnant:item/class/vampire"
-        }
+      "model":"remnant:item/class/tank"
+    }, {
+      "predicate" : {
+        "custom_model_data": 8
       },
-      {
-        "when": 9,
-        "apply": {
-          "model": "remnant:item/class/firestarter"
-        }
+      "model":"remnant:item/class/vampire"
+    }, {
+      "predicate" : {
+        "custom_model_data": 9
       },
-      {
-        "when": 10,
-        "apply": {
-          "model": "remnant:item/class/batter"
-        }
+      "model":"remnant:item/class/firestarter"
+    }, {
+      "predicate" : {
+        "custom_model_data": 10
       },
-      {
-        "when": 11,
-        "apply": {
-          "model": "remnant:item/class/clown"
-        }
+      "model":"remnant:item/class/batter"
+    }, {
+      "predicate" : {
+        "custom_model_data": 11
       },
-      {
-        "when": 12,
-        "apply": {
-          "model": "remnant:item/class/milo"
-        }
-      }
-    ]
-  }
+      "model":"remnant:item/class/clown"
+    }, {
+      "predicate" : {
+        "custom_model_data": 12
+      },
+      "model":"remnant:item/class/milo"
+    }
+  ]
 }
