@@ -59,6 +59,16 @@
           "custom_model_data" : 11
         }, 
         "model" : "remnant:item/sabers/bat_red"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 12
+        }, 
+        "model" : "remnant:item/sabers/clown_hammer_blue"
+      }, {
+        "predicate" : {
+          "custom_model_data" : 13
+        }, 
+        "model" : "remnant:item/sabers/clown_hammer_red"
       }
     ]
 }
