@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "remnant:block/models/boxtexture",
+		"particle": "remnant:block/models/boxtexture"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [2.125, 4.25, 4.125, 6.25], "texture": "#0"},
+				"east": {"uv": [4.25, 2.125, 6.25, 4.125], "texture": "#0"},
+				"south": {"uv": [4.125, 4.25, 6.125, 6.25], "texture": "#0"},
+				"west": {"uv": [6.125, 4.125, 8.125, 6.125], "texture": "#0"},
+				"up": {"uv": [8.125, 8.125, 6.125, 6.125], "texture": "#0"},
+				"down": {"uv": [4.125, 6.25, 2.125, 8.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.2, -0.3, 0.2],
+			"to": [16.3, 16.2, 16.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.2, -0.3, 0.2]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.125, 2.125], "texture": "#0"},
+				"east": {"uv": [0, 2.125, 2.125, 4.25], "texture": "#0"},
+				"south": {"uv": [2.125, 0, 4.25, 2.125], "texture": "#0"},
+				"west": {"uv": [2.125, 2.125, 4.25, 4.25], "texture": "#0"},
+				"up": {"uv": [2.125, 6.375, 0, 4.25], "texture": "#0"},
+				"down": {"uv": [6.375, 0, 4.25, 2.125], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	}
+}
