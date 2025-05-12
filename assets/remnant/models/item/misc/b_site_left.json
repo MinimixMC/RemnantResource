@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "remnant:item/misc/bsiteleft",
+		"particle": "remnant:item/misc/bsiteleft"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 7.6],
+			"to": [32, 32, 7.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, 0, 7.6]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	]
+}

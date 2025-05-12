@@ -16,7 +16,12 @@
 		{ "predicate": { "custom_model_data": 10 }, "model": "remnant:block/server_rack" },
 
 		{ "predicate": { "custom_model_data": 11 }, "model": "remnant:block/remnant_vehicle" },
-		{ "predicate": { "custom_model_data": 12 }, "model": "remnant:block/corrupted_vehicle" }
+		{ "predicate": { "custom_model_data": 12 }, "model": "remnant:block/corrupted_vehicle" },
+
+		{ "predicate": { "custom_model_data": 13 }, "model": "remnant:item/misc/a_site_right" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "remnant:item/misc/a_site_left" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "remnant:item/misc/b_site_right" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "remnant:item/misc/b_site_left" }
 
     ]
 }
