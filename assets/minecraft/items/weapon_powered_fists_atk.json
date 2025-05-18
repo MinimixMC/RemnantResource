@@ -1,6 +1,6 @@
 {
     "model" : {
         "type" : "minecraft:model",
-        "model" : "remnant:item/sabers/brawlerfist_ref"
+        "model" : "remnant:item/sabers/brawlerfist_red"
     }
 }
