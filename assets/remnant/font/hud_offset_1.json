@@ -1,7 +1,9 @@
 {
-"providers":[{
-	"type":"space",
-	"advances":{" ":6}},
+"providers":[
+	{
+		"type":"space",
+		"advances":{" ":6}
+	},
 	{
 		"type":"ttf",
 		"file":"remnant:hud.ttf",
