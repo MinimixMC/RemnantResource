@@ -66,6 +66,12 @@
             "ascent" : 7,
             "height" : 20,
             "chars" : ["\uE00B"]
+        }, {
+            "type" : "bitmap",
+            "file" : "remnant:font/logo.png",
+            "ascent" : 7,
+            "height" : 20,
+            "chars" : ["\uE00C"]
         }
 
     ]
