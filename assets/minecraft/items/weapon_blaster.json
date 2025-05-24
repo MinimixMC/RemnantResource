@@ -11,7 +11,7 @@
                 }
             },
             {
-                "threshold": 13,
+                "threshold": 12,
                 "model": {
                     "type": "minecraft:model",
                     "model": "remnant:item/bows/blaster/blaster_charge_1"
