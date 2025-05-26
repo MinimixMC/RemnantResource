@@ -2,13 +2,14 @@
     "model": {
         "type": "minecraft:condition",
         "property" : "minecraft:component",
-        "component" : "custom_data",
-        "predicate" : "scoped",
-        "value" : true,
+        "predicate" : "minecraft:custom_data",
+        "value": {
+            "scoped": true
+        },
+        "hand_animation_on_swap": false,
         "on_true": {
             "type" : "minecraft:model",
             "model": "remnant:item/crossbows/sniper/sniper_scoped"
-
         },
         "on_false": {
             "type": "minecraft:select",
