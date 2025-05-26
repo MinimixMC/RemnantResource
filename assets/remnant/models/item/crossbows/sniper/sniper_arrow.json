@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "remnant:item/crossbows/sniper/sniper_3d",
-		"particle": "remnant:item/crossbows/sniper/sniper_3d"
+		"0": "remnant:item/crossbows/sniper/sniper_3d_charged",
+		"particle": "remnant:item/crossbows/sniper/sniper_3d_charged"
 	},
 	"elements": [
 		{
