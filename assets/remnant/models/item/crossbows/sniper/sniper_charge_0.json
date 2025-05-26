@@ -1,6 +1,6 @@
 {
     "parent": "remnant:item/crossbows/sniper/sniper",
     "textures": {
-        "layer0": "remnant:item/crossbows/sniper/sniper_3d_charge_0"
+        "r0": "remnant:item/crossbows/sniper/sniper_3d_charge_0"
     }
 }
