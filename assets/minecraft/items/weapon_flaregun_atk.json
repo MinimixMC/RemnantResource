@@ -1,53 +1,55 @@
 {
-    "type": "minecraft:select",
-    "property": "minecraft:charge_type",
-    "cases": [
-    {
-        "when": "arrow",
-        "model": {
-        "type": "minecraft:model",
-        "model": "remnant:item/crossbows/flaregun/flaregun_red"
-        }
-    },
-    {
-        "when": "rocket",
-        "model": {
-        "type": "minecraft:model",
-        "model": "remnant:item/crossbows/flaregun/flaregun_red"
-        }
-    }
-    ],
-    "fallback": {
-        "type": "minecraft:condition",
-        "property": "minecraft:using_item",
-        "on_false": {
+    "model" : {
+        "type": "minecraft:select",
+        "property": "minecraft:charge_type",
+        "cases": [
+        {
+            "when": "arrow",
+            "model": {
             "type": "minecraft:model",
             "model": "remnant:item/crossbows/flaregun/flaregun_red"
+            }
         },
-        "on_true": {
-            "type": "minecraft:range_dispatch",
-            "property": "minecraft:crossbow/pull",
-            "entries": [
-            {
-                "model": {
-                "type": "minecraft:model",
-                "model": "remnant:item/crossbows/flaregun/flaregun_red"
-                },
-                "threshold": 0.58
-            },
-            {
-                "model": {
-                "type": "minecraft:model",
-                "model": "remnant:item/crossbows/flaregun/flaregun_red"
-                },
-                "threshold": 1.0
-            }
-            ],
-            "fallback": {
+        {
+            "when": "rocket",
+            "model": {
             "type": "minecraft:model",
             "model": "remnant:item/crossbows/flaregun/flaregun_red"
             }
-            
         }
-    }
+        ],
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "remnant:item/crossbows/flaregun/flaregun_red"
+            },
+            "on_true": {
+                "type": "minecraft:range_dispatch",
+                "property": "minecraft:crossbow/pull",
+                "entries": [
+                {
+                    "model": {
+                    "type": "minecraft:model",
+                    "model": "remnant:item/crossbows/flaregun/flaregun_red"
+                    },
+                    "threshold": 0.58
+                },
+                {
+                    "model": {
+                    "type": "minecraft:model",
+                    "model": "remnant:item/crossbows/flaregun/flaregun_red"
+                    },
+                    "threshold": 1.0
+                }
+                ],
+                "fallback": {
+                "type": "minecraft:model",
+                "model": "remnant:item/crossbows/flaregun/flaregun_red"
+                }
+                
+            }
+        }
+}
 }
