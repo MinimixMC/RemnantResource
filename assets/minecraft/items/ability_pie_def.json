@@ -1,6 +1,6 @@
 {
     "model" : {
         "type" : "minecraft:model",
-        "model" : "remnant:item/ability/pie_def"
+        "model" : "remnant:item/ability/pie_blue"
     }
 }
